@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+      <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1">
+      <meta name="description" content="@ViewBag.MetaDescription" />
+      <title>Auth Gen for Instagram API</title>
+      <link href="/Views/Locale/Content/css/additional/fonts.css" rel="stylesheet" />
+      <link href="/Views/Locale/Content/css/additional/default.css" rel="stylesheet" />
+      <link href="/Views/Locale/Content/css/additional/navbar-custom.css" rel="stylesheet" />
+      <link href="/Content/coreStyles.css" rel="stylesheet" />
+      <link href="/localStyles.css" rel="stylesheet" />
+
+
+    <style>
+
+    </style>
+
+</head>
